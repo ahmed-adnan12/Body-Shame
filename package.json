@@ -1,17 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "backend",
-  "version": "1.0.0",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2",
-    "cors": "^2.8.5",
-    "mongoose": "^7.0.0",
-    "dotenv": "^16.0.3"
-=======
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -35,6 +22,5 @@
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
     "typescript": "^5"
->>>>>>> e130f08bffaea29ec9c1e7a3b4ffa733d293c75b
   }
 }
